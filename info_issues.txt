@@ -1,0 +1,35 @@
+index.html
+ 	- "Search Map" and "Check Map" route to map.html
+ 	- "Favorites" routes to favorites.html
+ 	- Call Andrew's backend to get list of places
+ 		- These places will be displayed as a list on map.html
+
+map.html
+	- Still can't get imbedded Google Maps to run because of an API error
+	- Contains search bar for additional searches, reloads page on enter
+	- Map indicates FIRST RESULT RETURNED FROM BACKEND CALL
+	- User can go through list of suggestions and see info, ratings, and can check these locations out on a map
+
+favorites.html
+	- Shows current ratings and location
+
+rate.html
+	- User selects number of stars for place
+	- Can share rating
+	- When clicking rating, user is taken back to map.html
+
+location.html
+	- Shows graph for different ratings throughout the day
+	- Maybe add photos
+	- Address & phone info needed from API call
+
+
+Issues still having on front-end
+	- Google Maps API isn't letting me use a key, says it's incorrect key
+	- Should have ratings next to each location suggestion
+	- SHOULD HAVE MAP AND information link in favorites page
+	- Still fixing star rating system in rate.html
+		- Might replace with something else
+	- Have to add share buttons for social media
+	- FIX GRAPH
+
