@@ -25,11 +25,6 @@ location.html
 
 
 Issues still having on front-end
+	- Linking pages together!
 	- Google Maps API isn't letting me use a key, says it's incorrect key
-	- Should have ratings next to each location suggestion
-	- SHOULD HAVE MAP AND information link in favorites page
-	- Still fixing star rating system in rate.html
-		- Might replace with something else
-	- Have to add share buttons for social media
-	- FIX GRAPH
 
